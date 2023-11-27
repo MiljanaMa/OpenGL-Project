@@ -1,0 +1,4 @@
+C:\Users\Miljana\Downloads\Sablon\x64\Debug\glew32.dll
+C:\Users\Miljana\Downloads\Sablon\x64\Debug\Sablon.exe
+C:\Users\Miljana\Desktop\Sablon\x64\Debug\glew32.dll
+C:\Users\Miljana\Desktop\Sablon\x64\Debug\Sablon.exe
